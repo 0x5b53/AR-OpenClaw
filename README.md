@@ -14,3 +14,8 @@ Portable export package for recreating Aspri AR in another engine.
 
 ## Notes
 This export is intentionally kept clean and minimal so it can be pushed to a dedicated GitHub repo without dragging the whole working workspace with it.
+
+## Current memory note
+- Active memory uses `memory-core` plus `MEMORY.md` and `memory/YYYY-MM-DD.md`.
+- `claude-mem` has been fully removed from the machine and is no longer part of the active setup.
+- `memory-lancedb` was evaluated but is not used.
