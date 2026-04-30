@@ -40,6 +40,38 @@ Use for:
 - reverse engineering videos into scenes, beats, and shot logic
 - rebuilding prompt-ready scene structure from video examples
 
+## Practical tools and capabilities currently present in the source workspace
+These are not all "installed plugins", but they are practical capabilities that help shape the current assistant workflow.
+
+### OpenClaw memory and model layer
+- `memory-core` active as native memory backend
+- provider plugins enabled in config:
+  - `openai`
+  - `google`
+  - `ollama`
+
+### Document/PDF study capability
+- `study-ingestion` workflow present
+- PDF extraction stack expected/used:
+  - `pdftotext`
+  - Python-based fallback extraction (`pymupdf` / fitz, `pdfplumber`, `pypdf`) when needed
+  - optional OCR/manual review path for image-based PDFs
+
+### Video analysis capability
+- `video-scene-reverse-engineering` workflow present
+- `ffmpeg` available for:
+  - extracting frames
+  - coarse/fine scene sampling
+  - supporting prompt-ready scene reconstruction
+
+### General analysis/runtime helpers
+- `python3` available for custom parsing, extraction, and transformation tasks
+- workspace contains supporting analysis areas such as:
+  - `references/`
+  - `video_analysis/`
+  - `rag/`
+  - `tmp_video_qc/`
+
 ## Behavioral system notes
 The assistant was shaped not only by tools, but by these operating rules:
 - work in background by default for long jobs
