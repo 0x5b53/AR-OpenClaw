@@ -45,3 +45,11 @@ Recommended steps:
 
 ## Notes
 This export is intentionally kept clean and minimal so it can be reused on another machine without dragging the whole source workspace with it.
+
+## Extended 1:1 clone package files
+For a closer behavior/workflow clone, also use:
+- `MEMORY_SNAPSHOT.md`
+- `REFERENCE_KNOWLEDGE_INDEX.md`
+- `ENVIRONMENT_NOTES.md`
+- `AUTH_SETUP_TEMPLATE.md`
+- `BOOT_SEQUENCE_1TO1.md`
