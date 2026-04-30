@@ -61,3 +61,7 @@ To get even closer to the original assistant behavior and environment, also revi
 - `WORKSPACE_STRUCTURE.md`
 - `INSTALL_REPLICATION.md`
 - `BEHAVIORAL_EDGE_CASES.md`
+
+## Prompt-generation context
+For a closer clone of Aspri AR's image/video prompting mindset, also use:
+- `PROMPT_GENERATION_CONTEXT.md`
