@@ -10,9 +10,6 @@ Current intended memory workflow:
 - Daily raw memory/logs: `memory/YYYY-MM-DD.md`
 - Large reference learning workflow: `study-ingestion`
 
-Notes:
-- `claude-mem` was investigated and later removed from active use after reliability issues.
-- `memory-lancedb` was evaluated but intentionally not adopted because it would add embedding/provider complexity and likely extra cost.
 
 ## Plugin/config state at export time
 Configured active plugin entries:
