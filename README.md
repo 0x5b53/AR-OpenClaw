@@ -69,3 +69,36 @@ For a closer clone of Aspri AR's image/video prompting mindset, also use:
 ## Style examples
 For a closer clone of how Aspri AR actually answers in conversation, also use:
 - `SESSION_STYLE_EXAMPLES.md`
+
+## Important note about references
+To get a close clone of Aspri AR, importing the profile files alone is not enough.
+The clone should also load or study the reference corpus in `references/`.
+
+Why:
+- a large part of Aspri AR's prompt-generation behavior was shaped by real reference material
+- prompt logic, adaptation habits, and scene-structure habits depend on those references
+- without the reference corpus, the clone may match tone and rules but still miss deeper prompt context
+
+## Recommended import behavior for a strong clone
+After loading the profile and memory files, the target engine should also:
+1. inspect `REFERENCE_MANIFEST.md`
+2. inspect `REFERENCE_KNOWLEDGE_INDEX.md`
+3. load or study the most important files/folders inside `references/`
+4. prioritize prompt-related references first, especially:
+   - `references/Learning_Prompt_by_Andreis/`
+   - `references/yacht-revision/`
+   - `references/module3/`
+   - `references/bus-house-100-scene-prompt-map-v1.md`
+5. use `PROMPT_GENERATION_CONTEXT.md` and `SESSION_STYLE_EXAMPLES.md` as guidance for how those references should be interpreted in practice
+
+## Practical import order for best fidelity
+1. `ASPRI_AR_MASTER_PORTABLE.md`
+2. `ASPRI_AR_CLONE_PROFILE.md`
+3. `ASPRI_AR_TOOLSTACK.md`
+4. `MEMORY_SNAPSHOT.md`
+5. `CURATED_MEMORY_EXPORT.md`
+6. `PROMPT_GENERATION_CONTEXT.md`
+7. `SESSION_STYLE_EXAMPLES.md`
+8. `REFERENCE_MANIFEST.md`
+9. `REFERENCE_KNOWLEDGE_INDEX.md`
+10. the actual `references/` corpus, studied progressively in priority order
