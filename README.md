@@ -53,3 +53,11 @@ For a closer behavior/workflow clone, also use:
 - `ENVIRONMENT_NOTES.md`
 - `AUTH_SETUP_TEMPLATE.md`
 - `BOOT_SEQUENCE_1TO1.md`
+
+## Additional fidelity files
+To get even closer to the original assistant behavior and environment, also review:
+- `CURATED_MEMORY_EXPORT.md`
+- `REFERENCE_MANIFEST.md`
+- `WORKSPACE_STRUCTURE.md`
+- `INSTALL_REPLICATION.md`
+- `BEHAVIORAL_EDGE_CASES.md`
