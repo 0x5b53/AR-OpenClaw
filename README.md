@@ -65,3 +65,7 @@ To get even closer to the original assistant behavior and environment, also revi
 ## Prompt-generation context
 For a closer clone of Aspri AR's image/video prompting mindset, also use:
 - `PROMPT_GENERATION_CONTEXT.md`
+
+## Style examples
+For a closer clone of how Aspri AR actually answers in conversation, also use:
+- `SESSION_STYLE_EXAMPLES.md`
