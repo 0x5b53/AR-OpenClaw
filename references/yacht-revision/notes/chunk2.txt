@@ -1,0 +1,300 @@
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                            Image 10
+Reference:
+   -​ Image 9
+
+
+Prompt Image 10:
+Photorealistic shot from same AI-curated angle as IMAGE 9.
+3/4 bow view, slightly elevated dockside — golden hour transitioning to blue hour.
+Same sailing yacht as IMAGE 1 — identical geometry — fully restored.
+
+The sailing yacht stands completely restored in marina blue hour light:
+- Deep navy blue hull flawless — catching last warm gold of sunset on port bow —
+  crisp white waterline stripe glowing against dark water reflection below
+- Teak deck warm amber from elevated angle — cockpit perfectly staged —
+  cream cushions, teak table, bimini canvas all immaculate
+- Mast tall and proud — white against deepening blue sky — masthead light
+  glowing warm at apex — standing rigging clean lines against sky
+- Furled headsail in clean white cover — mainsail in navy cover on boom
+- Navigation lights glowing — port red, starboard green visible at bow
+- Polished stainless lifelines and pulpit catching last golden light
+- Marina water still and dark — full navy hull reflection below —
+  mast reflection stretching long across water surface
+- No visible damage anywhere — no workers — pure completed vessel
+- Same yacht form as IMAGE 1 preserved exactly — now proud, elegant, revived
+Photorealistic, luxury marine photography, 4K, magazine quality,
+blue hour cinematic atmosphere.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplic
+                                             Image 11
+Reference:
+   -​ Image 10
+
+
+Prompt Image 11:
+Photorealistic close-medium shot of the restored sailing yacht companionway from cockpit.
+Camera at cockpit eye-level — slightly closer than previous exterior shots.
+Same sailing yacht as IMAGE 1–10 — identical vessel — now viewed from cockpit position.
+
+Companionway entry beautifully restored and staged:
+- Teak companionway hatch boards freshly varnished — warm honey grain glowing —
+  brass slide fittings polished to mirror finish
+- Companionway frame refinished — clean white gelcoat surround — crisp edge lines
+- Hatch boards in place — warm amber glow visible through gap suggesting
+  lit interior beyond
+- Cockpit surround visible — cream cushions, teak coaming, polished winches
+- Warm exterior blue hour light from behind camera — golden dock light catching
+  varnished teak of hatch boards
+- Strong anticipation of what lies inside — threshold moment
+- No workers present — pure vessel presentation
+
+4K photorealistic, luxury marine photography, warm cinematic atmosphere.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                          Image 12
+Reference:
+   -​ Image 11
+
+
+Prompt Image 12:
+Photorealistic wide-angle eye-level shot, static camera. THIS IS THE ANCHOR FRAME
+for Zone 1: Main Salon & Galley.
+Camera positioned at base of companionway steps — looking forward into salon.
+
+Full Main Salon & Galley visible in complete abandonment:
+- Port and starboard settee berths with mouldy, collapsed cushions — fabric
+  rotted and discoloured — foam structure visible through tears
+- Saloon table between settees — surface warped and stained — fiddle rails
+  loose and broken
+- Timber-lined cabin sides — varnish completely gone — wood grey and dry —
+  moisture staining running from porthole frames down panels
+- Four portholes — two port, two starboard — completely opaque with salt film
+  and oxidation — no natural light penetrating
+- Galley to starboard forward — stainless sink heavily rusted — cabinet doors
+  hanging or missing — countertop cracked and stained — old debris inside
+- Overhead timber ceiling panels yellowed and peeling — one section sagging
+- Sole (floor) — teak and holly — black with grime — some planks lifted
+- Debris scattered throughout — old charts, rope ends, broken crockery,
+  mould-covered items — heavy atmosphere of abandonment
+- Shaft of cold grey light from open companionway behind camera — only light source
+- Cold, neglected, heavy with time — no workers yet present
+
+ALL subsequent images of this zone reference this exact angle and geometry.
+4K photorealistic, documentary style.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                           Image 13
+Reference:
+   -​ Image 12
+
+
+Prompt Image 13:
+Photorealistic eye-level shot, static camera — same zone as IMAGE 12, identical angle.
+Same Main Salon & Galley — same timber-lined cabin sides, same porthole positions,
+same galley to starboard forward — same geometry throughout.
+
+Zone half-cleared — original structure emerging:
+- Settee berths cleared of cushions — original timber berth bases visible —
+  moisture staining and wood condition now readable
+- Saloon table removed — floor space open — teak and holly sole visible
+  in cleared sections — black grime still heavy in uncleaned areas
+- Port side cleared — starboard galley still partially cluttered
+- Galley cabinet interiors emptied — rusted sink and cracked countertop exposed
+- Overhead ceiling — sagging section removed — structural beams visible
+- Portholes still opaque — work lights supplementing cold companionway light
+- Workers mid-action — one scraping sole, one clearing galley, one bagging debris
+- Damage now clearly visible — moisture staining, wood decay, rust, mould marks
+- Strong before/after contrast within single frame
+
+Same zone geometry as IMAGE 12 — identical angle — no structural changes.
+4K photorealistic, documentary style.
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                          Image 14
+Reference:
+   -​ Image 13
+
+
+Prompt Image 14:
+Photorealistic eye-level shot, static camera — same zone as IMAGE 12, identical angle.
+Same Main Salon & Galley — same cabin side positions, same porthole layout,
+same galley to starboard forward — identical geometry throughout.
+
+Zone fully cleared and structurally repaired — ready for finishing:
+- Settee berth bases clean and repaired — bare timber ready for cushions
+- Teak and holly sole clean and restored — warm pattern visible throughout —
+  repaired sections blending with original
+- Cabin side panels freshly varnished — warm honey timber tone returned —
+  moisture staining gone — smooth even finish
+- Portholes cleaned — natural warm afternoon light now entering from both sides —
+  transforming the atmosphere of the space
+- Galley structurally complete — new stainless sink fitted — fresh countertop —
+  cabinet carcasses repaired and primed — ready for doors and finishing
+- Overhead ceiling panels new and white — clean lines — recessed lighting
+  rough-ins already installed in overhead
+- Zone feels new, clean, and structurally sound — still unfurnished
+- Warm natural light from portholes filling space for first time
+Same zone geometry as IMAGE 12 — identical angle.
+4K photorealistic, documentary style.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                           Image 15
+Reference:
+   -​ Image 14
+
+
+Prompt Image 15:
+Photorealistic eye-level shot, static camera — same zone as IMAGE 12, identical angle.
+Same Main Salon & Galley — same cabin side positions, same porthole layout,
+same galley to starboard forward — identical geometry — now luxuriously transformed.
+
+Zone completely transformed — Minimal Scandinavian Marine style:
+- Port and starboard settees dressed in deep cream linen cushions —
+  accent cushions in navy and soft grey — inviting and elegant
+- Teak saloon table with polished stainless fiddle rails — centred between settees —
+  small nautical centerpiece on surface
+- Cabin sides warm honey varnished timber — glowing in combined natural and
+  artificial light — premium marine joinery quality
+- Four portholes clear — warm afternoon light streaming in — cream curtains
+  framing each porthole softly
+- Galley immaculate — white cabinet doors — quartz-white countertop —
+  polished stainless sink — under-cabinet warm LED glow —
+  small herb plant on counter — clean backsplash
+- Overhead white ceiling with warm recessed lighting — amber glow filling cabin
+- Teak and holly sole warm and glowing — clean pattern throughout
+- Framed nautical chart on forward bulkhead — refined styling detail
+- No workers present — space breathing in warm silence
+- Same windows, same geometry, same marine architecture as IMAGE 12 —
+  now luxurious, inviting, unrecognizable from abandonment
+
+4K photorealistic, interior design photography, magazine quality, cinematic.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark
+                                          Image 16
+Reference:
+   -​ Image 15
+
+
+Prompt Image 16:
+Photorealistic wide-angle eye-level shot, static camera. THIS IS THE ANCHOR FRAME
+for Zone 2: Cabin / V-Berth.
+Camera positioned at cabin doorway — looking forward into V-berth space.
+
+Full V-berth cabin visible in complete abandonment:
+- V-berth mattress collapsed and heavily moulded — fabric rotted through —
+  dark staining across entire surface — foam structure disintegrating
+- Port and starboard berth sides converging to bow point — timber panels
+  grey and dry — varnish completely gone — moisture staining heavy
+  running from hull sides inward
+- Small forward hatch above — opaque with salt and oxidation —
+  only cold grey diffused light entering
+- Two small portholes port and starboard — completely blocked with salt film
+- Hanging locker to starboard — door hanging open — rotted clothing remnants
+  inside — mould covering all surfaces
+- Overhead timber ceiling panels yellowed, cracked, one section collapsed
+- Sole — narrow teak strips — black with grime and moisture
+- Debris on berth and sole — old personal items, rope ends, moulded fabric —
+  heavy atmosphere of long abandonment
+- Hull sides visible at berth edges — fibreglass interior moulding stained
+  and damp — condensation marks throughout
+- Cold, enclosed, heavy — deepest neglect of the vessel
+
+ALL subsequent images of this zone reference this exact angle and geometry.
+4K photorealistic, documentary style.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                            Image 17
+Reference:
+   -​ Image 16
+
+
+Prompt Image 17:
+Photorealistic eye-level shot, static camera — same zone as IMAGE 16, identical angle.
+Same V-berth cabin — same converging berth sides, same forward hatch,
+same porthole positions, same hanging locker space to starboard — identical geometry.
+
+Cabin half-cleared — original structure emerging:
+- V-berth mattress fully removed — timber berth base exposed —
+  moisture staining and wood condition clearly readable
+- Port side berth cleared — starboard side and locker area still partially cluttered
+- Forward hatch frame visible — salt-opaque glazing still blocking light
+- Sole partially cleared — teak strips visible in cleared sections —
+  black grime still heavy in uncleaned areas
+- Hanging locker emptied — interior mould staining on locker walls visible
+- Work light casting cold white illumination — shadows deep in bow point
+- Workers mid-action in confined space — one on berth area, one managing bags
+- Damage clearly visible — moisture staining, wood decay, hull condensation marks
+- Enclosed bow atmosphere — deeper echo than salon
+
+Same zone geometry as IMAGE 16 — identical angle.
+4K photorealistic, documentary style.
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                          Image 18
+Reference:
+   -​ Image 17
+
+
+Prompt Image 18:
+Photorealistic eye-level shot, static camera — same zone as IMAGE 16, identical angle.
+Same V-berth cabin — same converging berth sides, same forward hatch,
+same porthole positions — identical geometry throughout.
+
+Forward cabin fully cleared and structurally repaired — ready for finishing:
+- V-berth base clean and repaired — smooth timber surface ready for mattress —
+  converging lines of berth sides clean and precise toward bow point
+- Berth timber sides freshly varnished — warm honey tone returned —
+  moisture staining completely gone — smooth even finish
+- Forward hatch cleaned — natural light now entering clearly —
+  warm exterior tone mixing with interior work light
+- Both portholes clear — light entering from port and starboard —
+  space feels open and airy for first time
+- Sole clean and restored — teak strips warm and readable —
+  repaired sections blending with original
+- Hanging locker interior clean and primed — ready for fitting
+- Overhead ceiling new and white — recessed lighting rough-ins in place
+- Hull interior clean and dry — no moisture marks remaining
+- Space feels new, clean, structurally sound — still unfurnished —
+ bow shape of hull now a design feature rather than constraint
+
+Same zone geometry as IMAGE 16 — identical angle.
+4K photorealistic, documentary style.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                          Image 19
+Reference:
+   -​ Image 18
+

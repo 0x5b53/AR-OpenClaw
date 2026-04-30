@@ -1,0 +1,340 @@
+
+Prompt Image 19:
+Photorealistic eye-level shot, static camera — same zone as IMAGE 16, identical angle.
+Same V-berth cabin — same converging berth sides, same forward hatch,
+same porthole positions — identical geometry — now luxuriously transformed.
+
+Forward cabin completely transformed — Minimal Scandinavian Marine style:
+- V-berth dressed in crisp white luxury bedding — cream duvet —
+  navy accent throw folded at foot — accent pillows in soft grey and cream —
+  converging bow shape now an intimate design feature
+- Berth timber sides warm honey varnished — glowing in layered warm light —
+  premium marine joinery quality throughout
+- Forward hatch above — clear glazing — evening sky visible beyond —
+  warm exterior blue hour light mixing with amber interior glow
+- Port and starboard portholes clear — cream linen curtains framing each —
+  soft light entering from marina outside
+- Bedside reading lights port and starboard — warm amber pools on bedding —
+  intimate and precise
+- Recessed overhead warm amber — filling cabin with soft even glow
+- Hanging locker closed — new brass hardware — clean timber door
+- Bedside shelf with small lamp and single book — refined minimal detail
+- Soft cream rug on teak sole at cabin entrance
+- No workers present — space intimate, warm, completely still
+- Same forward hatch, same portholes, same hull geometry as IMAGE 16 —
+  now a premium sailing yacht cabin
+
+4K photorealistic, interior design photography, magazine quality, cinematic.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                          Image 20
+Reference:
+   -​ Image 19
+
+
+Prompt Image 20:
+Photorealistic wide-angle eye-level shot, static camera. THIS IS THE ANCHOR FRAME
+for Zone 3: Bathroom / Head.
+Camera positioned at head compartment doorway — looking into confined space.
+
+Full head compartment visible in complete abandonment:
+- Marine toilet to port — heavily stained — seacocks corroded —
+  pump mechanism broken — bowl dark with scale and rust
+- Compact vanity to starboard — basin heavily scaled and stained —
+  chrome tap fittings corroded green and brown — drain blocked
+- Mirror above vanity — black spotted with moisture damage —
+  frame corroded — reflection barely visible through deterioration
+- Shower area in forward corner — shower pan cracked and stained —
+  shower head corroded and seized — drain blocked with debris
+- All surfaces — mould and mildew covering grout lines —
+  tiles stained dark — some tiles cracked or missing
+- Overhead — yellowed and water-stained — ventilation fan seized
+- Small porthole to starboard — completely opaque — no light penetrating
+- Sole — non-skid surface black with grime — drain cover corroded
+- Towel rail corroded — hanging in one bracket only
+- Damp, cold, sharp mildew smell implied by visual atmosphere —
+  worst condition of any zone — hard surface decay throughout
+- No workers present — cold grey atmosphere
+
+ALL subsequent images of this zone reference this exact angle and geometry.
+4K photorealistic, documentary style.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                            Image 21
+Reference:
+   -​ Image 20
+
+
+Prompt Image 21:
+Photorealistic eye-level shot, static camera — same zone as IMAGE 20, identical angle.
+Same head compartment — same spatial layout, same porthole position,
+same shower corner, same wall positions — identical geometry.
+
+Head compartment half-cleared — bare structure emerging:
+- Toilet removed — port side floor space open — pipe stubs visible —
+  floor condition beneath toilet now exposed — heavy staining
+- Vanity removed — starboard wall bare — pipe stubs capped —
+  wall surface behind vanity revealed — moisture damage extent visible
+- Mirror removed — wall above vanity bare — fixing holes visible
+- Shower fittings removed — shower corner bare — cracked pan exposed —
+  pipe stubs capped — full extent of tile damage visible
+- Mould treatment working — surface colour changing on treated areas
+- Work light harsh and revealing — every surface defect visible
+- Worker mid-action — scraping treated mould from surfaces
+- Tiles still in place — grout dark — some tiles cracked — full assessment visible
+- Sole drain cover removed — drain cleared — sole surface fully exposed
+
+Same zone geometry as IMAGE 20 — identical angle.
+4K photorealistic, documentary style.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                             Image 22
+Reference:
+   -​ Image 21
+
+
+Prompt Image 22:
+Photorealistic eye-level shot, static camera — same zone as IMAGE 20, identical angle.
+Same head compartment — same spatial layout, same porthole position,
+same shower corner, same wall positions — identical geometry.
+
+Head compartment fully rebuilt and structurally complete — ready for fitting:
+- All walls retiled in clean white subway tiles — grout lines crisp and white —
+  surfaces completely waterproofed and fresh
+- Shower corner retiled — new fibreglass tray — clean drain —
+  pipe stubs ready for new shower fitting
+- Port side floor space clean — pipe stubs ready for new marine toilet
+- Starboard wall clean and tiled — pipe stubs ready for new vanity
+- Porthole clear — natural warm light entering — transforming atmosphere
+- Overhead white and clean — new ventilation fan fitted flush
+- Sole white non-skid marine surface — new chrome drain cover
+- Space feels completely new — clinical, clean, bright —
+  same compact geometry as IMAGE 20 — now a blank premium canvas
+- Warm natural light from porthole mixing with work light —
+  space feels open and airy despite compact dimensions
+Same zone geometry as IMAGE 20 — identical angle.
+4K photorealistic, documentary style.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                          Image 23
+Reference:
+   -​ Image 22
+
+
+Prompt Image 23:
+Photorealistic eye-level shot, static camera — same zone as IMAGE 20, identical angle.
+Same head compartment — same spatial layout, same porthole position,
+same shower corner, same wall positions — identical geometry — now transformed.
+
+Head compartment completely transformed — premium marine bathroom:
+- Marine toilet port side — white ceramic — chrome fittings —
+  immaculate and precisely fitted
+- Compact white vanity starboard — white ceramic basin —
+  brushed chrome tap — clean and gleaming
+- LED mirror above vanity — warm white illumination —
+  reflection clear and bright — chrome frame precise
+- Glass shower enclosure in forward corner — clear panels —
+  chrome frame — chrome shower head — white tiled interior visible
+- All walls white subway tiles — grout crisp white —
+  surfaces gleaming in layered light
+- Porthole clear — warm exterior light entering —
+  white linen curtain framing softly
+- Brushed chrome towel rail — two premium white towels folded precisely
+- Ambient LED glow beneath vanity — warm light at sole level
+- White non-skid sole — chrome drain cover — clean throughout
+- Premium soap dispenser and accessories on vanity — minimal and refined
+- Overhead white — ventilation fan flush — warm ambient lighting
+- No workers present — space clinical, premium, completely still
+- Same compact geometry as IMAGE 20 — now a luxury marine head
+
+4K photorealistic, interior design photography, magazine quality, cinematic.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                           Image 24
+Reference:
+   -​ Image 23
+
+
+Prompt Image 24:
+Photorealistic wide shot — marina night — blue hour fully settled.
+AI-curated hero angle: slightly elevated 3/4 bow view — full vessel in frame —
+mast top to waterline — dock foreground — open marina behind.
+Same sailing yacht as IMAGE 1–23 — identical geometry — fully restored.
+
+The sailing yacht in its final complete state — marina night portrait:
+- Deep navy blue hull flawless and gleaming — dock lights raking across
+  port bow — crisp white waterline stripe glowing against dark water
+- Every porthole warm amber — four salon portholes port side —
+  two forward cabin portholes — each a warm rectangle of interior life
+- Companionway glow visible in cockpit — cream bimini lit softly from below
+- Cockpit staging immaculate — cream cushions, teak table, polished winches —
+  all catching ambient dock light
+- Mast tall and white against deep blue night sky — masthead light
+  glowing warm at apex — spreaders and rigging catching light
+- Furled headsail in clean white UV cover on forestay —
+  mainsail in navy cover on boom — both crisp and precise
+- Polished stainless bow pulpit and lifelines — chrome catching dock light
+- Navy braided dock lines neatly cleated — white fenders properly hung
+- Marina water dark and still — full navy hull reflection below —
+  porthole amber reflections in water — mast reflection long and precise
+- Dock timber planks in foreground — warm dock lighting —
+  marina background open and calm
+- No damage visible anywhere on vessel — no workers — no equipment —
+  pure completed sailing yacht in premium marina presentation
+- Same yacht form as IMAGE 1 — same mast, same hull, same deck layout —
+  now luminous, proud, and completely transformed
+
+Photorealistic, luxury marine night photography, 4K, magazine quality,
+blue hour cinematic atmosphere, premium marina setting.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                          Video Generation
+
+
+
+
+                    Image 1                                           Image 2
+​
+Prompt Video 1:
+Smooth timelapse, 8 seconds, Veo 3. Static camera identical to IMAGE 1.
+Same abandoned sailing yacht — identical port side profile — mast and rigging visible.
+
+A small marine restoration crew of 3 arrives along the dock with utility carts:
+- Workers in high-visibility yellow vests, gloves, and hard hats
+- Equipment unloaded: pressure wash hoses coiled, sanding blocks, marine repair kits,
+  inspection torches, rigging tools, protective sheeting rolls
+- One worker walks the dock length examining the hull from outside
+- Another photographs damage points on the hull and deck
+- Third worker checks dock lines and fender condition
+- Lighting remains cold and flat — overcast morning — no change to yacht yet
+
+ASMR: dock cart wheels rolling on timber planks, equipment cases clicking open,
+footsteps on dock, soft rope tension creak, light marina water lapping against hull,
+distant seagull, workers speaking quietly.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                     Image 2                                           Image 3
+
+
+
+
+Prompt Video 2:
+Smooth timelapse, 8 seconds, Veo 3. Static camera identical to IMAGE 1 and IMAGE 2.
+Same sailing yacht — identical port side profile — same mast and hull geometry.
+
+Workers begin removing loose debris and surface clutter:
+- Rotted mainsail cover pulled off boom and bagged — fabric tears as it's removed
+- Frayed dock lines replaced with temporary clean lines
+- Cracked fenders removed and stacked on dock
+- Loose deck items — old buckets, broken cleats, tangled rope — cleared to dock
+- Stiff marine brushes begin working on deck surface — dry debris loosening
+- Collection bins filling on dock beside the yacht
+- Dust and salt particles drift naturally in light marina breeze
+- Yacht silhouette remains identical — only surface clutter being removed
+
+ASMR: rotted fabric tearing, stiff brush strokes on teak, debris dragging across deck,
+plastic bag rustling, rope coiling, dock footsteps, light splash of debris hitting dock.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                    Image 3                                          Image 4
+
+
+
+
+Prompt Video 3:
+Smooth timelapse, 8 seconds, Veo 3. Static camera locked — identical to all previous.
+Same sailing yacht — same port side profile — same mast and hull geometry.
+
+Remaining exterior debris cleared rapidly:
+- Aft deck fully cleared — all loose items removed
+- Furling headsail carefully lowered and removed from forestay — bagged for assessment
+- All rotted rope, broken fittings, and accumulated clutter removed from deck
+- Waste loaded into dock carts and wheeled away from frame
+- Dock area swept clean around the vessel
+- Full hull and superstructure now revealed without obstruction for first time
+- True extent of deterioration now fully visible — oxidized gelcoat, blistering,
+  algae waterline, corroded rigging, worn teak — all clearly readable
+- Workers stand back briefly surveying the cleared vessel
+
+ASMR: final scraping sounds, debris dragging, dock cart wheels, broom sweeping
+on dock planks, workers coordinating in low voices, rope coiling sounds.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                    Image 4                                           Image 5
+
+
+
+
+Prompt Video 4:
+Smooth timelapse, 8 seconds, Veo 3. Static camera identical to all previous exterior images.
+Same sailing yacht — same port side profile — same mast and hull geometry.
+
+Marine wash equipment staged rapidly around the vessel:
+- Pressure wash hoses unreeled from dock supply point toward yacht
+- Mobile dockside access platform positioned along port hull
+- Water supply line connected — hose pressure tested with short burst
+- Workers don waterproof aprons and eye protection over existing PPE
+- Scrubbing brushes, marine cleaning solution buckets, and hull cleaning pads
+  positioned along dock beside the vessel
+- Antifouling treatment equipment staged near waterline access
+- Yacht still dirty and deteriorated — fully prepared for transformation
+
+ASMR: hose unreeling on dock, platform wheels clanking into position,
+water line connection click, pressure test burst, equipment repositioning,
+worker communication, water sloshing in buckets.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                    Image 5                                          Image 6
+
+
+
+
+Prompt Video 5:
+Smooth timelapse, 8 seconds, Veo 3. Static camera identical to all previous exterior images.
+Same sailing yacht — same port side profile — same mast, boom, hull geometry.
+
+Pressure washers blast the full hull and deck surfaces:
+- High-pressure water jets sweep across oxidized gelcoat — original fiberglass
+  color beginning to emerge patch by patch beneath the contamination
+- Water streams cascade down hull surface carrying salt, algae, and embedded grime
+- Waterline fouling band attacked with rotating brush attachment — dark marine

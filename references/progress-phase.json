@@ -1,0 +1,9 @@
+{
+  "project": "learning-prompt-and-video-analysis",
+  "activePhase": "belajar",
+  "phases": {
+    "belajar": { "done": false },
+    "sintesis": { "done": false },
+    "penerapan": { "done": false }
+  }
+}

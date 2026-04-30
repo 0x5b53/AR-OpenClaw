@@ -1,0 +1,260 @@
+                     IMAGE GENERATION
+
+
+
+
+                                             Image 1
+
+
+
+
+Prompt Image 1:
+Photorealistic wide-angle dockside eye-level shot, static camera, completely locked.
+Port side profile view — full sailing yacht in frame — single mast rising tall against
+overcast morning sky — marina dock in foreground.
+
+The yacht stands in complete abandonment:
+- Fiberglass GRP hull covered in oxidized gelcoat, osmotic blistering visible along
+  waterline, salt streaks running vertically from deck to waterline
+- Teak deck blackened and cracked, non-skid surfaces worn smooth and stained
+- Standing rigging corroded — shrouds and stays show rust streaking down the mast
+- Furling headsail wrapped loosely, UV cover faded and torn in sections
+- Boom drooping slightly — topping lift slack — mainsail cover rotted and split
+- Portholes clouded with salt film and oxidation — bronze fittings turned green
+- Dock lines old and fraying — fenders cracked and discolored
+- Waterline heavily fouled with marine growth — dark green algae band
+- No human presence. Cold flat overcast lighting. Heavy atmosphere of abandonment.
+Same yacht identity maintained throughout all subsequent frames.
+Photorealistic, ultra-detailed, 4K documentary photography style.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                               Image 2
+Reference:
+   -​ Image 1
+
+
+Prompt Image 2:
+Photorealistic eye-level shot, static camera identical to IMAGE 1.
+Same abandoned sailing yacht — identical hull, same port side dockside angle,
+same geometry as IMAGE 1. Same fiberglass GRP hull, same mast, same rigging layout.
+
+Workers (3) now present and actively assessing:
+- One worker crouched at waterline inspecting osmotic blistering with gloved hand
+- One worker on deck carefully stepping over rotted mainsail cover, checking boom
+  and mast base fittings
+- One worker on dock noting hull damage with clipboard and inspection torch
+- Tool cases and inspection equipment open on dock beside the yacht
+- Yacht remains completely untouched — no cleaning begun
+- Slightly warmer flat lighting as morning progresses — still overcast
+- Workers in full PPE, natural realistic poses
+
+Same yacht as IMAGE 1 — identical geometry — no changes to vessel condition.
+4K photorealistic, documentary style.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                               Image 3
+Reference:
+   -​ Image 2
+
+
+Prompt Image 3:
+Photorealistic eye-level shot, static camera identical to IMAGE 1.
+Same sailing yacht as IMAGE 1 — identical port side angle — identical mast and
+hull geometry — same fiberglass GRP hull with oxidized gelcoat.
+
+Half of visible surface debris cleared:
+- Boom now exposed — rotted sail cover removed — original boom condition visible
+- Forward deck partially cleared — some original teak grain now visible through grime
+- Aft deck still cluttered with old equipment and debris
+- Hull still fully oxidized and salt-streaked — no cleaning of hull surface yet
+- Debris bags and removed waste stacked neatly on dock beside vessel
+- Workers mid-action — one on deck with brush, one on dock managing waste
+- Stronger daylight beginning to break through overcast — slightly warmer tone
+- Damp salt atmosphere visible — dust settling on dock surface
+
+Same yacht geometry as IMAGE 1 — no structural changes — only debris removal progress.
+4K photorealistic, documentary style.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                               Image 4
+Reference:
+   -​ Image 3
+
+
+Prompt Image 4:
+Photorealistic eye-level shot, same static camera as IMAGE 1 — identical angle and position.
+Same sailing yacht — same port side profile — same mast, boom, standing rigging geometry.
+
+All major surface debris and neglected exterior clutter removed:
+- Full hull exposed — oxidized gelcoat clearly visible — osmotic blistering along
+  waterline — salt streaks running full length of hull
+- Teak deck fully visible — blackened, cracked, worn — true condition now readable
+- Mast standing bare — corroded fittings — rust streaks running down from spreaders
+- Boom exposed — original condition visible — topping lift hanging slack
+- Portholes still clouded — bronze fittings still green — no cleaning yet
+- Waterline fouling band fully visible — dark marine growth
+- Workers standing back on dock surveying — bright open daylight breaking through
+- Dock area clean — waste removed — staging area clear for next phase
+
+Same yacht as IMAGE 1 — identical geometry — marine form fully visible for first time.
+4K photorealistic, documentary style.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                               Image 5
+Reference:
+   -​ Image 4
+
+
+Prompt Image 5:
+Photorealistic eye-level shot, same static camera as all previous exterior images.
+Same sailing yacht as IMAGE 1 — identical port side profile — same mast, boom,
+hull geometry — same fiberglass GRP hull with oxidized gelcoat and blistering.
+
+Dockside access and cleaning equipment fully staged:
+- Mobile access platform positioned along full port hull length
+- Pressure wash hoses running from dock supply to work zone — coiled ready
+- Marine cleaning solution buckets and scrubbing equipment on platform
+- Workers standing ready in waterproof PPE — pressure wash wands in hand
+- Yacht still fully deteriorated — oxidized hull, fouled waterline, corroded rigging
+- The staging frames the vessel dramatically — transformation imminent
+- Bright open daylight — slight warmth entering the scene
+
+Same yacht geometry as IMAGE 1 — no changes to vessel condition yet.
+4K photorealistic, documentary style.
+
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                              Image 6
+Reference:
+   -​ Image 5
+
+
+Prompt Image 6:
+Photorealistic eye-level shot, same static camera as all previous exterior images.
+Same sailing yacht as IMAGE 1 — identical port side profile — same mast, boom,
+standing rigging geometry — same fiberglass GRP hull form.
+
+Yacht exterior now fully washed — true surface condition revealed:
+- Original gelcoat color now visible — faded chalky white-grey fiberglass beneath
+  the removed contamination — oxidation and UV damage clearly readable
+- Osmotic blistering along waterline now fully exposed and countable
+- Teak deck grain now visible — original wood structure readable — deep cracks,
+  grey weathering, and worn caulking lines clearly visible
+- Portholes clearer — salt film removed — original bronze frames now readable
+  in their corroded green-patina state
+- Mast and standing rigging wet and glistening — rust streaks still present
+  on shrouds and stays — corrosion extent now fully visible
+- Wet surfaces glisten in bright afternoon light — water still running off hull
+- Workers stepping back — surveying the revealed condition
+- Same yacht identity as IMAGE 1 — now fully readable in its true deteriorated state
+
+4K photorealistic, documentary style, bright afternoon light.
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                            Image 7
+Reference:
+   -​ Image 6
+
+
+Prompt Image 7:
+Photorealistic eye-level shot, same static camera as all previous exterior images.
+Same sailing yacht as IMAGE 1 — identical port side profile — same mast, boom,
+hull geometry — same fiberglass GRP hull form.
+
+All major exterior defects repaired — vessel ready for final coating:
+- Hull surface smooth and prepared — epoxy filler patches visible as lighter
+  sections across the hull — surface uniformly sanded and primed
+- Teak deck partially sanded — warm natural grain emerging in treated sections —
+  fresh black caulking lines crisp and clean between planks
+- Standing rigging corrected — new stainless sections visible against old wire
+- Bronze porthole frames treated — green patina reduced — metal stabilized
+- Deck hardware tightened and secured — cleats and fittings properly fastened
+- Workers now preparing marine paint systems — rollers, spray equipment,
+  and finishing tools being staged on dock
+- Warm late afternoon light beginning to appear — golden tone entering scene
+- The yacht feels structurally sound for the first time
+
+Same yacht geometry as IMAGE 1 — identical mast, hull form, deck layout.
+4K photorealistic, documentary style.
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                            Image 8
+Reference:
+   -​ Image 7
+
+
+Prompt Image 8:
+Photorealistic eye-level shot, same static camera as all previous exterior images.
+Same sailing yacht as IMAGE 1 — identical port side profile — same mast, boom,
+hull geometry — same fiberglass GRP hull form — now transformed.
+
+Yacht exterior freshly coated — hardware beginning to return:
+- Deep navy blue hull finish clean and rich — crisp white waterline stripe sharp
+  and precise — dramatic transformation from faded chalky grey
+- Teak deck warm and oiled — natural honey-amber grain glowing — fresh black
+  caulking lines crisp between planks — non-skid sections repainted white
+- Mast freshly painted white — standing rigging corrected and tensioned
+- Restored furling headsail being carefully re-attached to forestay by worker
+- Bronze porthole frames polished to warm gold tone — glazing cleaned and clear
+- Cleats and deck hardware polished stainless steel — returning to proper position
+- Some equipment still present on dock — transformation dramatic and unmistakable
+- Warm late afternoon golden light raking across the navy hull — reflections forming
+
+Same yacht identity as IMAGE 1 — identical geometry — now visually transformed.
+4K photorealistic, documentary style.
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
+out of frame, extra limbs, inconsistent lighting, artifacts, grainy, pixelated,
+unrealistic, cartoon, sketch, floating objects, impossible yacht geometry,
+duplicated railings, duplicated windows, melted surfaces, fake water reflections,
+incorrect marine proportions
+                                           Image 9
+Reference:
+   -​ Image 8
+
+
+Prompt Image 9:
+Photorealistic shot from AI-curated angle — 3/4 bow view, slightly elevated dockside.
+Same yacht as IMAGE 1–8 — new perspective — identical vessel geometry preserved.
+
+Exterior staging complete — full luxury marina presentation:
+- Deep navy blue hull gleaming in warm late afternoon light — crisp white waterline
+  stripe perfectly sharp — bow lines elegant and proud
+- Teak deck honey-warm and oiled — visible from elevated angle — cockpit cushions
+  cream-white and perfectly placed — teak table set in cockpit
+- Mast tall and clean white — fresh standing rigging tensioned — furled headsail
+  in clean white UV cover — mainsail in fresh navy sail cover on boom
+- Cream bimini canvas taut over cockpit — casting soft shadow on teak
+- Polished stainless bow pulpit and lifelines catching golden light
+- Navy braided dock lines neatly cleated — white fenders properly positioned
+- Marina background warm and calm — water reflecting navy hull and mast
+- Workers may still be present finishing final small details at stern
+- Warm golden afternoon light enhancing every surface and contour
+
+Same sailing yacht identity from IMAGE 1 — now transformed into pristine vessel.
+4K photorealistic, luxury marine photography.
+--no blurry, deformed, distorted, low quality, bad anatomy, watermark, text,
